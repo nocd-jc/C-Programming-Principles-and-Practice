@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00BAF757208550F600715FE6 /* Chapter3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00BAF756208550F600715FE6 /* Chapter3.cpp */; };
+		00BAF7592087C6DE00715FE6 /* Chapter3-Exercises.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00BAF7582087C6DE00715FE6 /* Chapter3-Exercises.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,7 +25,7 @@
 /* Begin PBXFileReference section */
 		00BAF74B20854B7900715FE6 /* C++ Programming Principles and Practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++ Programming Principles and Practice"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00BAF75520854BF600715FE6 /* std_lib_facilities.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = std_lib_facilities.h; sourceTree = "<group>"; };
-		00BAF756208550F600715FE6 /* Chapter3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Chapter3.cpp; sourceTree = "<group>"; };
+		00BAF7582087C6DE00715FE6 /* Chapter3-Exercises.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Chapter3-Exercises.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				00BAF75520854BF600715FE6 /* std_lib_facilities.h */,
-				00BAF756208550F600715FE6 /* Chapter3.cpp */,
+				00BAF7582087C6DE00715FE6 /* Chapter3-Exercises.cpp */,
 			);
 			path = "C++ Programming Principles and Practice";
 			sourceTree = "<group>";
@@ -121,7 +121,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00BAF757208550F600715FE6 /* Chapter3.cpp in Sources */,
+				00BAF7592087C6DE00715FE6 /* Chapter3-Exercises.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
